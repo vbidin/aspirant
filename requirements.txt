@@ -1,0 +1,8 @@
+numpy==1.13.1
+olefile==0.44
+opencv-python==3.3.0.10
+Pillow==4.2.1
+PyAutoGUI==0.9.36
+PyMsgBox==1.0.6
+PyScreeze==0.1.13
+PyTweening==1.0.3
